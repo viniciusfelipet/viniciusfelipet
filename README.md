@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius Felipe</h1>
-<h3 align="center">Passionate about technology and working in fullstack web/mobile development</h3>
+<h3 align="center">Passionate about technology and working in the analysis and fullstack development of web/mobile software</h3>
 
 ## Connect with me:
 <p align="left">
